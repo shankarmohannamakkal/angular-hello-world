@@ -24,3 +24,5 @@ This is the basic hello world project is in angular version 12.0.1.
 
 - Run `docker push shankarmohan/angular-app:1.0` to push the image into docker hub.
 
+- The same image is publically available `docker pull shankarmohan/angular-app`
+
